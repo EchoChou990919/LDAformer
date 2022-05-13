@@ -1,0 +1,381 @@
+HMDD v2.0	category	HMDD v3.0
+"Abortion, Habitual"	NA	Habitual Abortion
+Acquired Immunodeficiency Syndrome	Y	Acquired Immunodeficiency Syndrome
+ACTH-Secreting Pituitary Adenoma	NA	Pituitary Adenoma
+Acute Coronary Syndrome	Y	Acute Coronary Syndrome
+Acute Lung Injury	Y	Acute Lung Injury
+Adenocarcinoma	NA	"Adenocarcinoma, Colon; Adenocarcinoma, Endometrial; Adenocarcinoma, Esophageal; Adenocarcinoma, Lung; Adenocarcinoma, Pancreatic Ductal; Colorectal Adenocarcinoma"
+Adenoma	NA	"Adenocarcinoma, Colon"
+Adenoviridae Infections	NA	Adenovirus Infection
+Adrenal Cortex Neoplasms	Y	Adrenal Cortex Neoplasms
+Adrenocortical Adenoma	NA	Adrenal Cortex Neoplasms
+Adrenocortical Carcinoma	NA	"Carcinoma, Adrenocortical"
+Aging	NA	Colorectal Carcinoma
+AIDS Dementia Complex	NA	Dementia
+Albuminuria	NA	NA
+Alopecia	Y	Alopecia
+Alzheimer Disease	Y	Alzheimer Disease
+Amyloidosis	Y	Amyloidosis
+Amyotrophic Lateral Sclerosis	Y	Amyotrophic Lateral Sclerosis
+"Anemia, Sickle Cell"	NA	Anemia
+"Angina, Unstable"	NA	NA
+Anoxia	NA	NA
+Antiphospholipid Syndrome	Y	Antiphospholipid Syndrome
+Anus Neoplasms	NA	Anus Neoplasm
+Anxiety Disorders	Y	Anxiety Disorders
+"Aortic Aneurysm, Abdominal"	Y	"Aortic Aneurysm, Abdominal"
+"Aortic Aneurysm, Thoracic"	Y	"Aortic Aneurysm, Thoracic"
+Aortic Valve Insufficiency	NA	Aortic Insufficiency
+Aortic Valve Stenosis	NA	Aortic Stenosis
+"Arrhythmias, Cardiac"	NA	"Arrhythmia; Cardiomyopathy, Hypertrophic; Coronary Artery Disease; Long QT Syndrome"
+Arthritis	Y	Arthritis
+"Arthritis, Psoriatic"	NA	Psoriatic Arthritis
+"Arthritis, Rheumatoid"	NA	Rheumatoid Arthritis
+Asthma	Y	Asthma
+Astrocytoma	Y	Astrocytoma
+Atherosclerosis	Y	Atherosclerosis
+Atrial Fibrillation	Y	Atrial Fibrillation
+Atrophy	NA	Muscular Dystrophy
+Autistic Disorder	Y	Autistic Disorder
+Autoimmune Diseases	NA	Autoimmune Diseases [unspecific]
+Azoospermia	Y	Azoospermia
+Barrett Esophagus	Y	Barrett Esophagus
+Behcet Syndrome	NA	Behcet Disease
+Biliary Atresia	Y	Biliary Atresia
+Biliary Tract Neoplasms	Y	Biliary Tract Neoplasms
+Bladder Neoplasms	Y	Bladder Neoplasms
+Brain Injuries	NA	Brain Disease [unspecific]
+Brain Injury	NA	Brain Disease [unspecific]
+Brain Ischemia	NA	Ischemic Diseases [unspecific]
+Brain Neoplasms	Y	Brain Neoplasms
+Breast Neoplasms	Y	Breast Neoplasms
+Burkitt Lymphoma	NA	"Lymphoma, Burkitt"
+Burns	Y	Burns
+Carcinoma	NA	Neoplasms [unspecific]
+"Carcinoma, Basal Cell"	Y	"Carcinoma, Basal Cell"
+"Carcinoma, Ductal, Breast"	NA	Breast Ductal Carcinoma
+"Carcinoma, Ehrlich Tumor"	Y	"Carcinoma, Ehrlich Tumor"
+"Carcinoma, Embryonal"	Y	"Carcinoma, Embryonal"
+"Carcinoma, Endometrioid"	NA	"Carcinoma, Endometrioid Endometrial"
+"Carcinoma, Hepatocellular"	Y	"Carcinoma, Hepatocellular"
+"Carcinoma, Neuroendocrine"	Y	"Carcinoma, Neuroendocrine"
+"Carcinoma, Non-Small-Cell Lung"	NA	"Carcinoma, Lung, Non-Small-Cell"
+"Carcinoma, Oral"	Y	"Carcinoma, Oral"
+"Carcinoma, Renal Cell"	Y	"Carcinoma, Renal Cell"
+"Carcinoma, Small Cell"	NA	"Carcinoma, Lung, Small-Cell"
+"Carcinoma, Squamous Cell"	NA	"Squamous Cell Carcinoma, Cerevial; Squamous Cell Carcinoma, Esophageal; Squamous Cell Carcinoma, Head and Neck; Squamous Cell Carcinoma, Laryngeal or Hypopharyngeal; Squamous Cell Carcinoma, Lung; Squamous Cell Carcinoma, Maxillary Sinus; Squamous Cell Carcinoma, Oral; Squamous Cell Carcinoma, Sinonasal; Squamous Cell Carcinoma, Skin or Unspecific; Squamous Cell Carcinoma, Tongue"
+Cardiomegaly	Y	Cardiomegaly
+Cardiomyopathies	NA	Cardiomyopathy
+"Cardiomyopathy, Dilated"	Y	"Cardiomyopathy, Dilated"
+"Cardiomyopathy, Hypertrophic"	Y	"Cardiomyopathy, Hypertrophic"
+Cardiovascular Diseases	NA	Cardiovascular Diseases [unspecific]
+Carotid Artery Diseases	Y	Carotid Artery Diseases
+Cataract	Y	Cataract
+Central Nervous System Diseases	NA	Central Nervous System Embryonal Tumor
+Cerebellar Neoplasms	NA	"Carcinoma, Embryonal"
+Cerebral Hemorrhage	NA	Intracerebral Hemorrhage
+Cerebral Infarction	NA	Acute Cerebral Infarction
+Cerebral Ischemia	Y	Cerebral Ischemia
+Cervical Intraepithelial Neoplasia	NA	"Carcinoma, Cervical"
+Cervical Neoplasms	Y	Cervical Neoplasms
+"Child Development Disorders, Pervasive"	Y	"Child Development Disorders, Pervasive"
+Chlamydia Infections	NA	Chlamydial Infection 
+Cholangiocarcinoma	Y	Cholangiocarcinoma
+Cholesteatoma	Y	Cholesteatoma
+Chondrodysplasia Punctata	NA	NA
+Chordoma	Y	Chordoma
+Choriocarcinoma	Y	Choriocarcinoma
+Cicatrix	NA	NA
+Cocaine-Related Disorders	NA	Cocaine Abuse
+Colitis	Y	Colitis
+"Colitis, Ulcerative"	Y	"Colitis, Ulcerative"
+Colon Neoplasms	Y	Colon Neoplasms
+Colonic Neoplasms	NA	Colon Neoplasms
+Colorectal Neoplasms	NA	Colorectal Carcinoma
+"Colorectal Neoplasms, Hereditary Nonpolyposis"	NA	Colorectal Carcinoma
+Coronary Artery Disease	Y	Coronary Artery Disease
+Creutzfeldt-Jakob Syndrome	NA	Creutzfeldt-Jakob Disease
+Crohn Disease	Y	Crohn Disease
+Cryptosporidium	NA	Cystic Fibrosis
+Cystic Fibrosis	Y	Cystic Fibrosis
+"Cystitis, Interstitial"	NA	Interstitial Cystitis
+Dementia	Y	Dementia
+Demyelinating Diseases	Y	Demyelinating Diseases
+"Dermatitis, Atopic"	NA	Atopic Dermatitis
+Diabetes Complications	NA	Diabetes Mellitus
+Diabetes Mellitus	Y	Diabetes Mellitus
+"Diabetes Mellitus, Type 1"	Y	"Diabetes Mellitus, Type 1"
+"Diabetes Mellitus, Type 2"	Y	"Diabetes Mellitus, Type 2"
+Diabetic Nephropathies	NA	Diabetic Nephropathy
+Diabetic Retinopathy	Y	Diabetic Retinopathy
+Digestive System Neoplasms	Y	Digestive System Neoplasms
+Distal Myopathies	NA	Distal Myopathy
+Down Syndrome	Y	Down Syndrome
+Drug-Induced Liver Injury	NA	Liver Injury
+Dyslipidemias	NA	NA
+Dyspepsia	Y	Dyspepsia
+Eclampsia	Y	Eclampsia
+Eczema	NA	Eczema Herpeticum
+"Encephalomyelitis, Autoimmune, Experimental"	NA	Encephalomyelitis
+Endometrial Neoplasms	Y	Endometrial Neoplasms
+Endometriosis	Y	Endometriosis
+Endomyocardial Fibrosis	Y	Endomyocardial Fibrosis
+"Endothelium, Vascular"	NA	Vascular Disease [unspecific]
+Eosinophilic Esophagitis	Y	Eosinophilic Esophagitis
+Ependymoma	Y	Ependymoma
+Erythropoiesis	NA	NA
+Esophageal Neoplasms	Y	Esophageal Neoplasms
+Esophagus	NA	"Squamous Cell Carcinoma, Head and Neck; Squamous Cell Carcinoma, Esophageal"
+Eye Abnormalities	NA	NA
+Fanconi Anemia	Y	Fanconi Anemia
+Fatty Liver	NA	Fatty Liver [unspecific]
+"Fatty Liver, Alcoholic"	Y	"Fatty Liver, Alcoholic"
+"Fatty Liver, Non-Alcoholic"	Y	"Fatty Liver, Non-Alcoholic"
+Fibroblasts	NA	NA
+Fibrosarcoma	Y	Fibrosarcoma
+Fibrosis	NA	Renal Fibrosis
+Focal Epithelial Hyperplasia	Y	Focal Epithelial Hyperplasia
+Fragile X Syndrome	Y	Fragile X Syndrome
+Francisella	NA	NA
+Frontotemporal Lobar Degeneration	Y	Frontotemporal Lobar Degeneration
+Gastric Neoplasms	Y	Gastric Neoplasms
+"Gastritis, Atrophic"	NA	Atrophic Gastritis
+Gastrointestinal Neoplasms	Y	Gastrointestinal Neoplasms
+Gerstmann-Straussler-Scheinker Disease	NA	Creutzfeldt-Jakob Disease
+Giant Cell Tumors	NA	Giant Cell Tumor of Bone
+Glioblastoma	Y	Glioblastoma
+Glioma	Y	Glioma
+Glomerulonephritis	Y	Glomerulonephritis
+"Glomerulonephritis, IGA"	NA	Glomerulonephritis
+Gout	Y	Gout
+Graft vs Host Disease	NA	Graft-Versus-Host Disease
+Granulosa Cell Tumor	Y	Granulosa Cell Tumor
+Graves Disease	Y	Graves Disease
+"Hamartoma Syndrome, Multiple"	NA	PTEN Hamartoma Tumor Tyndrome
+"Hand, Foot and Mouth Disease"	NA	"Hand, Foot And Mouth Disease"
+HBV Infection	NA	Hepatitis B Virus Infection
+HCMV Infection	NA	Viral Infectious Disease
+HCV	NA	Hepatitis C Virus Infection
+Head and Neck Neoplasms	NA	Head And Neck Neoplasms
+Hearing Loss	Y	Hearing Loss
+"Heart Defects, Congenital"	NA	Chronic Heart Failure
+Heart Diseases	NA	Heart Diseases [unspecific]
+Heart Failure	Y	Heart Failure
+"Helplessness, Learned"	NA	Learned Helplessness
+Hemangioma	Y	Hemangioma
+Hemangiosarcoma	Y	Hemangiosarcoma
+Hematologic Neoplasms	Y	Hematologic Neoplasms
+Hepatitis	NA	Hepatitis [unspecific]
+Hepatitis B	NA	Hepatitis B Virus Infection
+"Hepatitis B, Chronic"	NA	Hepatitis B Virus Infection
+Hepatitis C	NA	Hepatitis C Virus Infection
+"Hepatitis C, Chronic"	NA	Hepatitis C Virus Infection
+"Hepatitis, Chronic"	NA	Hepatitis C Virus Infection
+Hepatoblastoma	Y	Hepatoblastoma
+HEV	NA	Hepatitis E Virus Infection
+HIV	NA	Human Immunodeficiency Virus Infection
+HIV Infection	NA	Human Immunodeficiency Virus Infection
+HIV Infections	NA	Human Immunodeficiency Virus Infection
+HIV-1	NA	Human Immunodeficiency Virus Infection
+Hodgkin Disease	NA	"Lymphoma, Hodgkin"
+HPV Infection	NA	Human Papilloma Virus Infection
+Huntington Disease	Y	Huntington Disease
+Hyperglycemia	Y	Hyperglycemia
+Hyperlipidemias	NA	Hyperlipidemia
+Hypertension	Y	Hypertension
+Hypertrophy	Y	Hypertrophy
+"Hypertrophy, Left Ventricular"	NA	Cardiomegaly
+Hypopharyngeal Neoplasms	NA	"Squamous Cell Carcinoma, Laryngeal or Hypopharyngeal"
+"Hypoxia-Ischemia, Brain"	NA	Cerebral Ischemia
+"Infertility, Male"	NA	Male Infertility; Asthenozoospermia
+Inflammation	Y	Inflammation
+Inflammatory Bowel Diseases	Y	Inflammatory Bowel Diseases
+"Influenza, Human"	NA	Influenza
+Intellectual Disability	Y	Intellectual Disability
+Intervertebral Disk	NA	Intervertebral Disc Degeneration
+Intracranial Aneurysm	Y	Intracranial Aneurysm
+Irritable Bowel Syndrome	Y	Irritable Bowel Syndrome
+Ischemia	Y	Ischemia
+Ischemic Preconditioning	NA	NA
+Keloid	Y	Keloid
+Keratoconus	NA	NA
+Kidney Diseases	NA	Kidney Diseases [unspecific]
+"Kidney Failure, Acute"	NA	Acute Kidney Failure
+"Kidney Failure, Chronic"	NA	Chronic Kidney Disease
+Kidney Neoplasms	Y	Kidney Neoplasms
+Laryngeal Neoplasms	Y	Laryngeal Neoplasms
+Leiomyoma	Y	Leiomyoma
+Leiomyosarcoma	Y	Leiomyosarcoma
+Leprosy	Y	Leprosy
+Leukemia	Y	Leukemia
+"Leukemia, Acute"	Y	"Leukemia, Acute"
+"Leukemia, B-Cell"	Y	"Leukemia, B-Cell"
+"Leukemia, Biphenotypic, Acute"	Y	"Leukemia, Biphenotypic, Acute"
+"Leukemia, lymphoblastic, Acute"	NA	"Leukemia, Lymphoblastic, Acute"
+"Leukemia, lymphoblastic, Chronic"	NA	"Leukemia, Lymphocytic, Chronic, B-Cell"
+"Leukemia, Lymphocytic, Chronic, B-Cell"	Y	"Leukemia, Lymphocytic, Chronic, B-Cell"
+"Leukemia, Myelogenous, Chronic, BCR-ABL Positive"	Y	"Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+"Leukemia, Myeloid"	Y	"Leukemia, Myeloid"
+"Leukemia, Myeloid, Acute"	Y	"Leukemia, Myeloid, Acute"
+"Leukemia, Myeloid, Chronic-Phase"	Y	"Leukemia, Myeloid, Chronic-Phase"
+"Leukemia, Promyelocytic, Acute"	Y	"Leukemia, Promyelocytic, Acute"
+"Leukemia-Lymphoma, Adult T-Cell"	Y	"Leukemia-Lymphoma, Adult T-Cell"
+"Leukoplakia, Oral"	NA	Oral Leukoplakia
+"Lichen Planus, Oral"	NA	Lichen Planus
+Lipid Metabolism Disorders	NA	Lipid Metabolism Disorder
+Liposarcoma	Y	Liposarcoma
+Liver Cirrhosis	Y	Liver Cirrhosis
+"Liver Cirrhosis, Biliary"	NA	Liver Cirrhosis
+Liver Diseases	NA	Liver Diseases [unspecific]
+"Liver Diseases, Alcoholic"	Y	"Liver Diseases, Alcoholic"
+Liver Failure	Y	Liver Failure
+Liver Neoplasms	Y	Liver Neoplasms
+Long QT Syndrome	Y	Long QT Syndrome
+Lung Diseases	NA	Lung Disease [unspecific]
+"Lung Diseases, Interstitial"	NA	Interstitial Lung Disease
+Lung Neoplasms	Y	Lung Neoplasms
+"Lupus Erythematosus, Systemic"	NA	Systemic Lupus Erythematosus
+Lupus Nephritis	Y	Lupus Nephritis
+Lupus Vulgaris	Y	Lupus Vulgaris
+Lymphoma	Y	Lymphoma
+"Lymphoma, B-Cell"	Y	"Lymphoma, B-Cell"
+"Lymphoma, Extranodal NK-T-Cell"	Y	"Lymphoma, Extranodal NK-T-Cell"
+"Lymphoma, Large B-Cell, Diffuse"	Y	"Lymphoma, Large B-Cell, Diffuse"
+"Lymphoma, Large-Cell, Anaplastic"	Y	"Lymphoma, Large-Cell, Anaplastic"
+"Lymphoma, Mantle-Cell"	Y	"Lymphoma, Mantle-Cell"
+"Lymphoma, Non-Hodgkin"	Y	"Lymphoma, Non-Hodgkin"
+"Lymphoma, Primary Effusion"	Y	"Lymphoma, Primary Effusion"
+"Lymphoma, T-Cell"	Y	"Lymphoma, T-Cell"
+Lymphoproliferative Disorders	Y	Lymphoproliferative Disorders
+Marek Disease	Y	Marek Disease
+"Mastocytosis, Systemic"	NA	Systemic Mastocytosis
+Medulloblastoma	Y	Medulloblastoma
+Melanoma	Y	Melanoma
+Meningioma	Y	Meningioma
+Mesothelioma	Y	Mesothelioma
+Metabolic Diseases	NA	Disease of Metabolism
+Mouth Neoplasms	NA	"Carcinoma, Oral; Squamous Cell Carcinoma, Oral"
+Moyamoya Disease	Y	Moyamoya Disease
+Multiple Endocrine Neoplasia Type 1	Y	Multiple Endocrine Neoplasia Type 1
+Multiple Myeloma	Y	Multiple Myeloma
+Multiple Sclerosis	Y	Multiple Sclerosis
+"Muscular Disorders, Atrophic"	NA	Muscle Atrophy
+Muscular Dystrophies	NA	Muscular Dystrophy
+"Muscular Dystrophy, Duchenne"	Y	"Muscular Dystrophy, Duchenne"
+"Muscular Dystrophy, Facioscapulohumeral"	Y	"Muscular Dystrophy, Facioscapulohumeral"
+Musculoskeletal Abnormalities	NA	Musculoskeletal Abnormalities [unspecific]
+Myasthenia Gravis	Y	Myasthenia Gravis
+Mycosis Fungoides	Y	Mycosis Fungoides
+Myelodysplastic Syndromes	Y	Myelodysplastic Syndromes
+Myeloproliferative Disorders	NA	Myeloproliferative Neoplasms
+Myocardial Infarction	Y	Myocardial Infarction
+Myocardial Ischemia	NA	Myocardial Ischemic-Reperfusion Injury; Ischemia-Reperfusion Injury
+Myocardial Reperfusion Injury	NA	Myocardial Ischemic-Reperfusion Injury
+Myocarditis	NA	Viral Myocarditis
+Myocardium	NA	Myocardial Ischemic-Reperfusion Injury
+"Myocytes, Cardiac"	NA	Cardiovascular Diseases [unspecific]
+Myopia	Y	Myopia
+Myositis Ossificans	Y	Myositis Ossificans
+Myotonic Dystrophy	NA	Myotonic Muscular Dystrophy
+Nasal Polyps	NA	Rhinosinusitis
+Nasopharyngeal Neoplasms	Y	Nasopharyngeal Neoplasms
+Neoplasms	NA	Neoplasms [unspecific]
+"Neoplasms, Germ Cell and Embryonal"	NA	"Carcinoma, Embryonal"
+"Neoplasms, Glandular and Epithelial"	NA	Neoplasms [unspecific]
+"Neoplasms, Squamous Cell"	NA	"Squamous Cell Carcinoma, Head and Neck; Squamous Cell Carcinoma, Oral; Squamous Cell Carcinoma, Skin or Unspecific"
+Nephrosclerosis	Y	Nephrosclerosis
+Nerve Sheath Neoplasms	NA	Nervous System Diseases [unspecific]
+Nervous System Diseases	NA	Nervous System Diseases [unspecific]
+Neurilemmoma	Y	Neurilemmoma
+Neuroblastoma	Y	Neuroblastoma
+Neurodegenerative Diseases	NA	Neurodegenerative Diseases [unspecific]
+Neurofibromatosis 2	NA	Neurofibromatosis type 2
+"Neuroma, Acoustic"	NA	Neuroma
+Neutropenia	Y	Neutropenia
+"Nevus, Pigmented"	NA	Nevus
+Obesity	Y	Obesity
+Odontogenic Tumors	Y	Odontogenic Tumors
+Oligodendroglioma	Y	Oligodendroglioma
+Osteoarthritis	Y	Osteoarthritis
+Osteolysis	NA	NA
+Osteoporosis	Y	Osteoporosis
+Osteosarcoma	Y	Osteosarcoma
+Ovarian Neoplasms	Y	Ovarian Neoplasms
+Ovary Syndrome	NA	Polycystic Ovarian Syndrome
+Pain	Y	Pain
+Pancreatic Neoplasms	Y	Pancreatic Neoplasms
+Panic Disorder	Y	Panic Disorder
+Papilary thyroid carcinoma	NA	"Carcinoma, Thyroid, Papillary"
+Parkinson Disease	Y	Parkinson Disease
+Patau Syndrome	Y	Patau Syndrome
+"Pemphigus, Benign Familial"	NA	Hailey-Hailey Disease
+Periodontal Diseases	Y	Periodontal Diseases
+Periodontitis	Y	Periodontitis
+Pheochromocytoma	Y	Pheochromocytoma
+Pituitary Adenomas	NA	Pituitary Adenoma
+Pituitary Neoplasms	Y	Pituitary Neoplasms
+Polycystic Kidney Diseases	NA	Polycystic Kidney Disease
+Polycythemia Vera	Y	Polycythemia Vera
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	NA	"Leukemia-Lymphoma, Precursor B-Cell Lymphoblastic"
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	NA	"Leukemia-Lymphoma, Precursor T-Cell Lymphoblastic"
+Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	NA	"Leukemia-Lymphoma, Precursor T-Cell Lymphoblastic"
+Pre-Eclampsia	NA	Preeclampsia
+"Pregnancy, Ectopic"	NA	Ectopic Pregnancy
+Prion Diseases	Y	Prion Diseases
+Prolactinoma	Y	Prolactinoma
+Prostate Neoplasms	Y	Prostate Neoplasms
+Prostatic Neoplasms	NA	Prostate Neoplasms
+PRRSV Infection	NA	Porcine Reproductive and Respiratory Syndrome Virus Infection
+Psoriasis	Y	Psoriasis
+Psychotic Disorders	Y	Psychotic Disorders
+"Pulmonary Disease, Chronic Obstructive"	NA	Chronic Obstructive Pulmonary Disease
+Pulmonary Embolism	Y	Pulmonary Embolism
+Pulmonary Fibrosis	NA	Lung Fibrosis
+Radiation Injuries	NA	NA
+Rectal Neoplasms	Y	Rectal Neoplasms
+Renal Insufficiency	NA	"Leukemia, Lymphocytic, Chronic, B-Cell"
+Reperfusion Injury	NA	Ischemia-Reperfusion Injury
+Retinal Degeneration	Y	Retinal Degeneration
+Retinal Neovascularization	Y	Retinal Neovascularization
+Retinoblastoma	Y	Retinoblastoma
+Rhabdomyosarcoma	Y	Rhabdomyosarcoma
+"Rhinitis, Allergic, Perennial"	NA	"Allergic Rhinitis,Perennial"
+RNA Virus Infections	NA	Hematologic Neoplasms; 
+Salivary Gland Neoplasms	Y	Salivary Gland Neoplasms
+Sarcoma	NA	Sarcoma [unspecific]
+"Sarcoma, Ewing"	NA	Ewing Sarcoma
+"Sarcoma, Ewing's"	NA	Ewing Sarcoma
+"Sarcoma, Kaposi"	NA	Kaposi Sarcoma
+"Sarcoma, Synovial"	NA	Synovial Sarcoma
+SARS Virus	NA	Severe Acute Respiratory Syndrome Virus Infection
+Schistosomiasis	NA	Intestinal Schistosomiasis
+Schizophrenia	Y	Schizophrenia
+"Scleroderma, Localized"	Y	"Scleroderma, Localized"
+"Scleroderma, Systemic"	Y	"Scleroderma, Systemic"
+Sepsis	Y	Sepsis
+Sezary Syndrome	NA	Sezary Disease
+SIV Infection	NA	NA
+Sjogrens Syndrome	NA	Sjogren Syndrome
+Skin Neoplasms	Y	Skin Neoplasms
+Small Cell Lung Carcinoma	NA	"Carcinoma, Lung, Small-Cell"
+Spinal Cord Injuries	Y	Spinal Cord Injuries
+Stomach Diseases	NA	Gastric Neoplasms
+Stomach Neoplasms	NA	Gastric Neoplasms
+Stroke	Y	Stroke
+"Supranuclear Palsy, Progressive"	NA	Progressive Supranuclear Palsy
+Synapses	NA	Amyotrophic Lateral Sclerosis
+Testicular Neoplasms	Y	Testicular Neoplasms
+Thyroid Neoplasms	Y	Thyroid Neoplasms
+Tongue Neoplasms	Y	Tongue Neoplasms
+Tourette Syndrome	Y	Tourette Syndrome
+Toxoplasma	NA	Toxoplasma gondii Infection
+Toxoplasmosis	NA	Toxoplasma gondii Infection
+Trophoblasts	NA	NA
+"Tuberculosis, Pulmonary"	Y	"Tuberculosis, Pulmonary"
+Urinary Bladder Neoplasms	NA	Urinary Bladder Cancer
+Uterine Cervical Neoplasms	NA	Urinary Bladder Cancer
+Vascular Calcification	NA	Vascular Disease [unspecific]
+Vascular Diseases	NA	Vascular Disease [unspecific]
+Vitiligo	Y	Vitiligo
+Waldenstrom Macroglobulinemia	Y	Waldenstrom Macroglobulinemia
+Wounds and Injuries	NA	Wounds and Injuries [unspecific]
