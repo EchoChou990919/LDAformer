@@ -1,4 +1,4 @@
-We did a visual analysis of dataset 1 and found that its original authors probably used the following logical reasoning in the construction process of the dataset in some cases: If a certain lncRNA L is associated with a disease D, then it is inferred that L is associated with the ancestral diseases of D. For example, as shown in the following figure, based on dataset 1, we plotted the association information centered on DOID: 4 (Cancer) and the pathways between DOID:162 and lncRNA BANCR.
+We did a visual analysis of dataset 1 and found that its original authors probably used the following logical reasoning in the construction process of the dataset in some cases: If a certain lncRNA L is associated with a disease D, then it is inferred that L is associated with the ancestral diseases of D. For example, as shown in the following figure, based on dataset 1, we plotted the association information centered on DOID: 162 (Cancer) and the pathways between DOID:162 and lncRNA BANCR.
 
 Disease DOID:162 (Cancer) - LncRNA BANCR | Disease DOID:162 (Cancer)
 :-------------------------:|:-------------------------:
